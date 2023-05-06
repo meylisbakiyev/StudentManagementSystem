@@ -1,2 +1,3 @@
 bazi degisikler yaptim
 remoteda kodalar ekliyorum
+bazi kodlar yazdim.
