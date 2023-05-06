@@ -1,2 +1,3 @@
 bazi degisikler yaptim
 remoteda kodalar ekliyorum
+cakisma icin kodlar yaziyorum. burada cakisma olacak
