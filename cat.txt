@@ -5,3 +5,4 @@ bazi kodlar yazdim.
 
 cakisma icin kodlar yaziyorum. burada cakisma olacak
 
+baska dev kod yazdi
